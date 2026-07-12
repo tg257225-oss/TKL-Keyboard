@@ -7,3 +7,4 @@ KiCad Renders:
 
 Keyboard Case:
 ### ![Entire Case](Assets/finishedkeyboard.png)
+### ![Exploded Case](Assets/explodedkeyboardcase.png)

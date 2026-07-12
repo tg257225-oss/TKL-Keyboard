@@ -31,7 +31,7 @@ You can edit it by uploading the JSON file in the 'Firmware' folder into QMK and
 Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new USB flash drive. Then, drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.
 
 ## BOM for everything but the PCB
-| Header 1 | Header 2 | Header 3 |
+| Item | Price | Header 3 |
 | -------- | -------- | -------- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| PORON Foam 3mm (https://kineticlabs.com/misc/kinetic/keyboard-case-foam) | $11.99 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |

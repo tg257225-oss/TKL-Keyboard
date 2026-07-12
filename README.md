@@ -28,4 +28,4 @@ Here's the basic keyboard layout (the one included in the 'Firmware' folder):
 ### ![Keyboard Layout](Assets/keymapping.png)
 You can edit it by uploading the JSON file in the 'Firmware' folder into QMK and making the necessary changes for the layout you want to use.
 ### Flashing Instructions
-Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new usb flash drive. Then, drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.
+Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new USB flash drive. Then, drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.

@@ -21,3 +21,4 @@ Keyboard Case:
 * Supports ANSI/ISO
 
 ## Multi-Layout Support
+### ![Multi-Layout](Assets/keyboard-layout.png)

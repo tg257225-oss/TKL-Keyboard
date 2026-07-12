@@ -1,5 +1,5 @@
 # TKLKeyboard
-An F12 TKL Multi-Layout Hotswap keyboard, designed in KiCad10 and Fusion360.
+An F12 TKL Multi-Layout Hotswap keyboard, designed in KiCad10 and Fusion360. Everything in the 'Production' folder of this repository should be everything you need for the physical parts of this keyboard.
 
 KiCad Renders:
 ### ![PCB Front](Assets/3dpcbfront.png)

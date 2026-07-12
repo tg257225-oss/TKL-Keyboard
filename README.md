@@ -19,3 +19,5 @@ Keyboard Case:
 * USB-C Port
 * ESD Chip to prevent damage from electrostatic discharge
 * Supports ANSI/ISO
+
+## Multi-Layout Support

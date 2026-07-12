@@ -18,4 +18,4 @@ Keyboard Case:
 * 12MHz Crystal
 * USB-C Port
 * ESD Chip to prevent damage from electrostatic discharge
-* Supports ANSI + ISO
+* Supports ANSI/ISO

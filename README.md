@@ -6,4 +6,4 @@ KiCad Renders:
 ### ![PCB Back](Assets/3dpcbback.png)
 
 Keyboard Case:
-### !
+### ![Entire Case](Assets/finishedkeyboard.png)

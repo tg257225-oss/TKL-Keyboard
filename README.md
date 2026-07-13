@@ -31,6 +31,7 @@ You can edit it by uploading the JSON file in the 'Firmware' folder into QMK and
 Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new USB flash drive. Then, drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.
 
 ## BOM for everything but the PCB
+These are just items I found online, obviously not everyone will have to buy everything or may find things cheaper.
 | Item | Price | 
 | -------- | -------- | 
 | PORON Foam 3mm (https://kineticlabs.com/misc/kinetic/keyboard-case-foam) | $11.99 | 
@@ -42,3 +43,4 @@ Hold the BOOTSEL switch while plugging the board into the computer (or map the k
 | Kailh Box White Mechanical Switches 108pcs (https://www.amazon.com/Zjmehty-Mechanical-Keyboard-Switches-Waterproof/dp/B0CBPQGBSF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.E0cY7EpgxNWIGrjiUDijL2yX7QuJ4sSXQ3ni0V0YHDAgaGYgADZFwBu84mjhf-QysIyrwlpTxvjmzL0KDfYxlYY83vHiW4xgVClPXeF4Ib92ppCQysXUy_H-mAxLtrBvZS-ZL3z2GxEdb6f2pQ4qCblsv-kbjjwNlKHZ9bSdp37dGywsIBQwMoVVzmxqHsSfLnByHLKTMRRTwjsypfUzWYkZ373k-XDaxMY0TNUJ_mk.5vlHIp12Un8F6nijEipLgdprO-QfBAuDYCqbvLERydk&dib_tag=se&keywords=kailh%2Bswitches&qid=1783899117&sr=8-3&th=1) | $32.99 |
 | Black on White Double Shot ABS Keycap Set 150pcs (https://mechanicalkeyboards.com/products/tai-hao-150-key-abs-double-shot-cubic-keycap-set-black-on-white) | $23.99 |
 | M3x25mm + M3x35mm Screws (https://www.amazon.com/VGBUY-443Pcs-Assortment-Printer-Washers/dp/B0D14BC8QS/ref=sr_1_29?dib=eyJ2IjoiMSJ9.cJlzu8DHjxsBzA9lFsc42RrAUiLpBy2F3tkct2TerB3jPoWxLy1FFqgPkZL65Hm6hQ30CzHtc9XbV1b-KKiqKPhDFOW3YmMjd30Ejia8Nu6dS_fYUZJw2OaXmPkm66xulz6iDtLy41kDzPSHcQoN8hYNtvkRf0d3jzQRr0kr6lgkEKZoX19UdRjpKiqxOx5Y.NBmS5v4xF-mHcY9zdglMfK5eDmRY_j0mqYXsMdjWDFA&dib_tag=se&keywords=metric%2Bscrews%2Bm3&qid=1783871590&sr=8-29&xpid=46NRh2P79qy-c&th=1) | $9.99 |
+| Total: | $127.39 | 

@@ -28,7 +28,8 @@ Here's the basic keyboard layout (the one included in the 'Firmware' folder):
 ### ![Keyboard Layout](Assets/keymapping.png)
 You can edit it by uploading the JSON file in the 'Firmware' folder into QMK and making the necessary changes for the layout you want to use.
 ### Flashing Instructions
-Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new USB flash drive. Then, drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.
+1. Hold the BOOTSEL switch while plugging the board into the computer (or map the key onto another keyboard). Your computer will recognize the keyboard as a new USB flash drive.
+2. Drag the .uf2 firmware file onto the drive which will flash and reconnect as your keyboard.
 
 ## BOM for everything but the PCB
 These are just items I found online, obviously not everyone will have to buy everything or may find things cheaper.
@@ -43,8 +44,13 @@ These are just items I found online, obviously not everyone will have to buy eve
 | Kailh Box White Mechanical Switches 108pcs (https://www.amazon.com/Zjmehty-Mechanical-Keyboard-Switches-Waterproof/dp/B0CBPQGBSF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.E0cY7EpgxNWIGrjiUDijL2yX7QuJ4sSXQ3ni0V0YHDAgaGYgADZFwBu84mjhf-QysIyrwlpTxvjmzL0KDfYxlYY83vHiW4xgVClPXeF4Ib92ppCQysXUy_H-mAxLtrBvZS-ZL3z2GxEdb6f2pQ4qCblsv-kbjjwNlKHZ9bSdp37dGywsIBQwMoVVzmxqHsSfLnByHLKTMRRTwjsypfUzWYkZ373k-XDaxMY0TNUJ_mk.5vlHIp12Un8F6nijEipLgdprO-QfBAuDYCqbvLERydk&dib_tag=se&keywords=kailh%2Bswitches&qid=1783899117&sr=8-3&th=1) | $32.99 |
 | Black on White Double Shot ABS Keycap Set 150pcs (https://mechanicalkeyboards.com/products/tai-hao-150-key-abs-double-shot-cubic-keycap-set-black-on-white) | $23.99 |
 | M3x25mm + M3x35mm Screws (https://www.amazon.com/VGBUY-443Pcs-Assortment-Printer-Washers/dp/B0D14BC8QS/ref=sr_1_29?dib=eyJ2IjoiMSJ9.cJlzu8DHjxsBzA9lFsc42RrAUiLpBy2F3tkct2TerB3jPoWxLy1FFqgPkZL65Hm6hQ30CzHtc9XbV1b-KKiqKPhDFOW3YmMjd30Ejia8Nu6dS_fYUZJw2OaXmPkm66xulz6iDtLy41kDzPSHcQoN8hYNtvkRf0d3jzQRr0kr6lgkEKZoX19UdRjpKiqxOx5Y.NBmS5v4xF-mHcY9zdglMfK5eDmRY_j0mqYXsMdjWDFA&dib_tag=se&keywords=metric%2Bscrews%2Bm3&qid=1783871590&sr=8-29&xpid=46NRh2P79qy-c&th=1) | $9.99 |
-| Total: | $127.39 | 
+| Stabilizers (https://minokeys.com/products/aeboards-staebies) | $20.00 | 
+| Total: | $147.39 | 
 
 ## Assembly (a little unconventional but I plan on making things easier in the future)
-After 3D printing the bottom case, the 3mm PORON Foam should be laid inside of it, cut to fit. You could put the extra bits of foam in there but there should be at least a 1mm gap of air between the foam and the hotswap sockets. **The stabilizers should be installed onto the PCB before snapping the switches into the plate and PCB.** The PCB will have the PORON switch pads on it (for more sound modifications) and will be suspended by the switches (placed accordingly to whatever layout you want to use) secured by the plate. The plate itself will have the gaskets sandwiching the margins on all 4 sides of the plate (one on the top side of the margin, one on the bottom side). These gaskets will rest on the shelf located in the bottom case. The top case can then be placed and screwed on through the matching holes on the bottom plate. With how my current design is, the front end of the keyboards requires M3 x 23mm screws, and the back end requires M3 x 34mm Screws. In the future, I plan on making the case more suitable for standard screw sizes. But for now, I'm combating this by using a wire stripper tool. Screwing directly into 3D printed plastic creates debris, so make sure to clear that out. After securing the top case to the bottom case, all that's left is adding the keycaps for whatever layout you want.
+1. Case Dampening - Cut the 3mm PORON case FOAM to fit and lay it fly inside the 3D-printed bottom case. There should be a 1.5 mm air gap between the foat and the hotswap sockets to allow for gasket flex. Extra foam can be placed but they shouldn't be overpacked.
+2. PCB + Plate - Apply the PORON switch pads to the the PCB, install the stabilizers, and snap your chosen switches into the plate to secure them. Align the switch pins with the Kailh hotswap sockets and press the plate and PCB together.
+3. Gasket Mounting - Apply the PORON Gaskets to all four margins on the plate, one on the top of the plate and the other on the bottom, creating a sandwich. These gaskets should rest on the shelf located in the bottom case.
+4. Case Fastening - Place the top case over the assembly and secure it by driving screws through the matching holes on the bottom case. This current case design calls for M3 x 23mm screws on the front end of the keyboard and M3 x 34mm screws on the back end, which are not standard screw sizes and are hard to source. Trim M3 x 25mmm and M3 x 35mm screws accordingly if the custom sizes cannot be found. Future changes to the design will utilize standard screw sizes.
+5. Keycaps - Add your desired keycaps according to the chosen layout and plug in the keyboard.
 
